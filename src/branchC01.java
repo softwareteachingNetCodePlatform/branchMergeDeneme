@@ -6,6 +6,7 @@ public class branchC01 {
         //4.branch hasan yapıldı ve lokalden yola çıktı :-)
         System.out.println("Yeni deneme1");
         System.out.println("Yeni deneme2");
+        System.out.println("Yeni deneme lokalden");
         
     }
 }
