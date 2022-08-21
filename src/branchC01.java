@@ -7,6 +7,7 @@ public class branchC01 {
         System.out.println("Yeni deneme1");
         System.out.println("Yeni deneme2");
         System.out.println("Yeni deneme lokalden");
+        System.out.println("Yeni deneme GitHub dan");
         
     }
 }
